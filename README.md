@@ -17,7 +17,7 @@ Ein einfaches Arduino-Projekt mit dem DHT11-Temperatursensor. Wenn die Temperatu
 
 ## 🖥️ Simulation
 
-👉 Tinkercad-Simulation: [Link folgt]
+👉 Tinkercad-Simulation: https://www.tinkercad.com/things/6rT5NbgWlOT
 
 ## 🖼️ Schaltplan
 
